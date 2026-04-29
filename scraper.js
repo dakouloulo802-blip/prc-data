@@ -39,45 +39,67 @@ async function run(){
   $("table tbody tr").each((i, el)=>{
     const tds = $(el).find("td");
 
-    // must match full PRC row
     if(tds.length < 8) return;
 
     let rawDate = $(tds[2]).text().trim();
 
-    /* 🔥 FIX START (ONLY PART CHANGED) */
+    /* 🔥 CLEAN TEXT */
     rawDate = rawDate
       .replace(/and/g, "")
       .replace(/\s+/g, " ")
       .trim();
 
+    /* 🔥 EXTRACT MONTH */
     let monthMatch = rawDate.match(/([A-Za-z]+)/);
     let month = monthMatch ? monthMatch[1] : "";
 
+    /* 🔥 EXTRACT YEAR */
     let yearMatch = rawDate.match(/(\d{4})/);
     let yearVal = yearMatch ? yearMatch[1] : result.year;
 
-    let days = rawDate.match(/\d{1,2}/g) || [];
-    days = days.map(Number).filter(d => d <= 31);
+    /* 🔥 REMOVE YEAR BEFORE GETTING DAYS */
+    let noYear = rawDate.replace(/\d{4}/, "");
+
+    /* 🔥 EXTRACT DAYS */
+    let days = noYear.match(/\d{1,2}/g) || [];
+    days = days.map(Number).filter(d => d >= 1 && d <= 31);
 
     let cleanDate = rawDate;
 
     if(days.length > 1){
-      // keep space format so Blogger formatRange works
-      cleanDate = `${month} ${Math.min(...days)} ${Math.max(...days)}, ${yearVal}`;
+
+      /* 🔥 CHECK IF CONTINUOUS */
+      let isContinuous = true;
+
+      for(let i=1;i<days.length;i++){
+        if(days[i] !== days[i-1] + 1){
+          isContinuous = false;
+          break;
+        }
+      }
+
+      if(isContinuous){
+        // 👉 continuous → range
+        cleanDate = `${month} ${Math.min(...days)} ${Math.max(...days)}, ${yearVal}`;
+      }else{
+        // 👉 non-continuous → keep full list
+        cleanDate = `${month} ${days.join(", ")}, ${yearVal}`;
+      }
+
     } else if(days.length === 1){
       cleanDate = `${month} ${days[0]}, ${yearVal}`;
     } else {
       cleanDate = `${rawDate}, ${yearVal}`;
     }
-    /* 🔥 FIX END */
 
     data.push({
-      n: $(tds[1]).text().trim(),      // NAME
-      start: $(tds[5]).text().trim(),  // START
-      d: $(tds[6]).text().trim(),      // DEADLINE
-      e: cleanDate,                    // FIXED EXAM DATE
-      r: $(tds[7]).text().trim()       // RESULT
+      n: $(tds[1]).text().trim(),
+      start: $(tds[5]).text().trim(),
+      d: $(tds[6]).text().trim(),
+      e: cleanDate,
+      r: $(tds[7]).text().trim()
     });
+
   });
 
   const output = {
