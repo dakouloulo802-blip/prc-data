@@ -1,0 +1,92 @@
+name: PRC Auto Scraper
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install node-fetch cheerio
+
+      - name: Run scraper
+        run: |
+          node <<EOF
+
+          import fetch from "node-fetch";
+          import cheerio from "cheerio";
+          import fs from "fs";
+
+          const currentYear = new Date().getFullYear();
+
+          async function fetchPRC(year){
+            const url = `https://www.prc.gov.ph/${year}-schedule-examination`;
+
+            try{
+              const res = await fetch(url);
+              if(!res.ok) throw "no page";
+
+              const html = await res.text();
+
+              if(!html.includes("Schedule")) throw "not ready";
+
+              console.log("Found:", year);
+              return {html, year};
+
+            }catch{
+              return null;
+            }
+          }
+
+          let result = await fetchPRC(currentYear);
+
+          if(!result){
+            result = await fetchPRC(currentYear - 1);
+          }
+
+          if(!result){
+            console.log("No data found");
+            process.exit(0);
+          }
+
+          const $ = cheerio.load(result.html);
+
+          let data = [];
+
+          $("table tbody tr").each((i, el)=>{
+            const tds = $(el).find("td");
+
+            data.push({
+              n: $(tds[0]).text().trim(),
+              start: $(tds[1]).text().trim(),
+              d: $(tds[2]).text().trim(),
+              e: $(tds[3]).text().trim(),
+              r: $(tds[4]).text().trim()
+            });
+          });
+
+          const output = {
+            year: result.year,
+            data: data
+          };
+
+          fs.writeFileSync(`prc-${result.year}.json`, JSON.stringify(output, null, 2));
+
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "auto update PRC data" || echo "no changes"
+          git push
