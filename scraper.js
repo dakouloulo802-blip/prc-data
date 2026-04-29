@@ -39,19 +39,23 @@ async function run(){
   $("table tbody tr").each((i, el)=>{
     const tds = $(el).find("td");
 
-    if(tds.length < 5) return;
+    // must match full PRC row
+    if(tds.length < 8) return;
 
-    let examDate = $(tds[3]).text().trim();
+    let rawDate = $(tds[2]).text().trim();
 
-    // 🔥 CLEAN DATE (important for your countdown)
-    examDate = examDate.split("-")[0].trim();
+    // 🔥 CLEAN DATE (critical fix)
+    let cleanDate = rawDate
+      .replace(/and/g, "")
+      .split(",")[0]
+      .trim() + ", " + result.year;
 
     data.push({
-      n: $(tds[0]).text().trim(),
-      start: $(tds[1]).text().trim(),
-      d: $(tds[2]).text().trim(),
-      e: examDate,
-      r: $(tds[4]).text().trim()
+      n: $(tds[1]).text().trim(),      // ✅ NAME
+      start: $(tds[5]).text().trim(),  // ✅ START OF FILING
+      d: $(tds[6]).text().trim(),      // ✅ DEADLINE
+      e: cleanDate,                    // ✅ EXAM DATE
+      r: $(tds[7]).text().trim()       // ✅ RESULT
     });
   });
 
@@ -72,12 +76,12 @@ async function run(){
 
   if(oldData === newData){
     console.log("No changes detected");
-    process.exit(0); // 🔥 STOP HERE (NO COMMIT)
+    process.exit(0);
   }
 
   fs.writeFileSync(file, newData);
 
-  console.log("Updated file");
+  console.log("Updated file correctly");
 
 }
 
