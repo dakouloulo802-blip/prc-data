@@ -3,29 +3,33 @@ const cheerio = require("cheerio");
 
 async function run(){
 
-  const year = new Date().getFullYear();
+  /* 🔥 AUTO DETECT LATEST AVAILABLE YEAR */
+  async function getLatestAvailable(){
 
-  async function tryFetch(y){
-    try{
-      const res = await fetch(`https://www.prc.gov.ph/${y}-schedule-examination`);
-      if(!res.ok) throw "fail";
+    const currentYear = new Date().getFullYear();
 
-      const html = await res.text();
+    for(let y = currentYear; y >= currentYear - 3; y--){
 
-      if(!html.includes("Schedule")) throw "not ready";
+      try{
+        const res = await fetch(`https://www.prc.gov.ph/${y}-schedule-examination`);
+        if(!res.ok) continue;
 
-      console.log("Using year:", y);
+        const html = await res.text();
 
-      return {html, year: y};
+        if(html.includes("Schedule")){
+          console.log("Using year:", y);
+          return { html, year: y };
+        }
 
-    }catch{
-      console.log("Failed year:", y);
-      return null;
+      }catch{
+        console.log("Failed year:", y);
+      }
     }
+
+    return null;
   }
 
-  let result = await tryFetch(year);
-  if(!result) result = await tryFetch(year - 1);
+  let result = await getLatestAvailable();
 
   if(!result){
     console.log("No data found");
@@ -79,10 +83,8 @@ async function run(){
       }
 
       if(isContinuous){
-        // 👉 continuous → range
         cleanDate = `${month} ${Math.min(...days)} ${Math.max(...days)}, ${yearVal}`;
       }else{
-        // 👉 non-continuous → keep full list
         cleanDate = `${month} ${days.join(", ")}, ${yearVal}`;
       }
 
