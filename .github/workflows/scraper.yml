@@ -16,78 +16,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Install dependencies
-        run: |
-          npm init -y
-          npm install cheerio
+        run: npm install cheerio
 
       - name: Run scraper
-        run: |
-          node <<EOF
-
-          const fs = require("fs");
-          const cheerio = require("cheerio");
-
-          async function run(){
-
-            const year = new Date().getFullYear();
-
-            async function tryFetch(y){
-              try{
-                const res = await fetch(`https://www.prc.gov.ph/${y}-schedule-examination`);
-                if(!res.ok) throw "fail";
-
-                const html = await res.text();
-
-                if(!html.includes("Schedule")) throw "not ready";
-
-                return {html, year: y};
-
-              }catch{
-                return null;
-              }
-            }
-
-            let result = await tryFetch(year);
-            if(!result) result = await tryFetch(year - 1);
-
-            if(!result){
-              console.log("No data found");
-              return;
-            }
-
-            const $ = cheerio.load(result.html);
-
-            let data = [];
-
-            $("table tbody tr").each((i, el)=>{
-              const tds = $(el).find("td");
-
-              if(tds.length < 5) return;
-
-              data.push({
-                n: $(tds[0]).text().trim(),
-                start: $(tds[1]).text().trim(),
-                d: $(tds[2]).text().trim(),
-                e: $(tds[3]).text().trim(),
-                r: $(tds[4]).text().trim()
-              });
-            });
-
-            const output = {
-              year: result.year,
-              data: data
-            };
-
-            fs.writeFileSync(`prc-${result.year}.json`, JSON.stringify(output, null, 2));
-
-            console.log("Saved:", result.year);
-
-          }
-
-          run();
-
-          EOF
+        run: node scraper.js
 
       - name: Commit changes
         run: |
