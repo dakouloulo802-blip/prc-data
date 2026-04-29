@@ -1,88 +1,38 @@
-const fs = require("fs");
-const cheerio = require("cheerio");
+let rawDate = $(tds[2]).text().trim();
 
-async function run(){
+/* 🔥 CLEAN TEXT */
+rawDate = rawDate.replace(/and/g, "").replace(/\s+/g, " ").trim();
 
-  const year = new Date().getFullYear();
+/* 🔥 EXTRACT MONTH + YEAR */
+let monthMatch = rawDate.match(/([A-Za-z]+)/);
+let yearMatch = rawDate.match(/(\d{4})/);
 
-  async function tryFetch(y){
-    try{
-      const res = await fetch(`https://www.prc.gov.ph/${y}-schedule-examination`);
-      if(!res.ok) throw "fail";
+let month = monthMatch ? monthMatch[1] : "";
+let year = yearMatch ? yearMatch[1] : result.year;
 
-      const html = await res.text();
+/* 🔥 EXTRACT ALL DAYS */
+let days = rawDate.match(/\d{1,2}/g) || [];
 
-      if(!html.includes("Schedule")) throw "not ready";
+/* remove invalid numbers (like year parts) */
+days = days.map(Number).filter(d => d <= 31);
 
-      console.log("Using year:", y);
+/* 🔥 BUILD DISPLAY RANGE */
+let displayDate = rawDate;
 
-      return {html, year: y};
-
-    }catch{
-      console.log("Failed year:", y);
-      return null;
-    }
-  }
-
-  let result = await tryFetch(year);
-  if(!result) result = await tryFetch(year - 1);
-
-  if(!result){
-    console.log("No data found");
-    return;
-  }
-
-  const $ = cheerio.load(result.html);
-
-  let data = [];
-
-  $("table tbody tr").each((i, el)=>{
-    const tds = $(el).find("td");
-
-    // must match full PRC row
-    if(tds.length < 8) return;
-
-    let rawDate = $(tds[2]).text().trim();
-
-    // 🔥 CLEAN DATE (critical fix)
-    let cleanDate = rawDate
-      .replace(/and/g, "")
-      .split(",")[0]
-      .trim() + ", " + result.year;
-
-    data.push({
-      n: $(tds[1]).text().trim(),      // ✅ NAME
-      start: $(tds[5]).text().trim(),  // ✅ START OF FILING
-      d: $(tds[6]).text().trim(),      // ✅ DEADLINE
-      e: cleanDate,                    // ✅ EXAM DATE
-      r: $(tds[7]).text().trim()       // ✅ RESULT
-    });
-  });
-
-  const output = {
-    year: result.year,
-    updated: new Date().toISOString(),
-    data: data
-  };
-
-  const file = `prc-${result.year}.json`;
-
-  let oldData = "";
-  if(fs.existsSync(file)){
-    oldData = fs.readFileSync(file, "utf-8");
-  }
-
-  const newData = JSON.stringify(output, null, 2);
-
-  if(oldData === newData){
-    console.log("No changes detected");
-    process.exit(0);
-  }
-
-  fs.writeFileSync(file, newData);
-
-  console.log("Updated file correctly");
-
+if(days.length > 1){
+  displayDate = `${month} ${Math.min(...days)}-${Math.max(...days)}, ${year}`;
+}else if(days.length === 1){
+  displayDate = `${month} ${days[0]}, ${year}`;
 }
 
-run();
+/* 🔥 FIRST DAY FOR COUNTDOWN */
+let startDate = days.length ? `${month} ${days[0]}, ${year}` : displayDate;
+
+data.push({
+  n: $(tds[1]).text().trim(),
+  start: $(tds[5]).text().trim(),
+  d: $(tds[6]).text().trim(),
+  e: displayDate,     // 👉 FULL RANGE FOR UI
+  e_start: startDate, // 👉 FIRST DAY FOR LOGIC
+  r: $(tds[7]).text().trim()
+});
