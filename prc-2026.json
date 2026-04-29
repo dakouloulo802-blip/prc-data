@@ -2,11 +2,1103 @@
   "year": 2026,
   "data": [
     {
-      "n": "Nurses",
-      "start": "Nov 28, 2025",
-      "d": "Jan 27, 2026",
-      "e": "Feb 26-27, 2026",
-      "r": "Mar 19, 2026"
+      "n": "SEQ",
+      "start": "NAME OF EXAMINATION",
+      "d": "DATE/S OF EXAMINATION",
+      "e": "DAY/S",
+      "r": "TESTING CENTER/S"
+    },
+    {
+      "n": "1",
+      "start": "Real Estate Consultants (Revalida)",
+      "d": "January 12, 13, and 14, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "2",
+      "start": "Architects",
+      "d": "January 20 and 22, 2026",
+      "e": "Tue and Thu",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "3",
+      "start": "Sanitary Engineers (CBLE)",
+      "d": "January 26, 27, and 28, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR, Baguio, Cebu, Davao, Rosales, Pampanga, and Tuguegarao\nResolution No. 2136(B) s.2025 - Designating Davao As Additional Testing Center For The January 2026 Sanitary Engineers Licensure Examination"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers Oral Examination",
+      "d": "January 22-28, 2026",
+      "e": "Thur - Wed",
+      "r": "Doha, Qatar"
+    },
+    {
+      "n": "4",
+      "start": "Criminologists",
+      "d": "February 04, 05, and 06, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Bacolod, Bayambang, Bohol, Catarman, Cauayan, Dumaguete, Ilocos Norte, Ilocos Sur, Kidapawan, Lipa (Batangas), Nueva Vizcaya,Romblon and Naga\nResolution No. 2141 s.2026 Designating Naga City as an Additional Testing Center for the February 2026 Licensure Examination for Criminologists\nResolution No. 2144 s.2026 Cancellation of the Licensure Examination for Criminologists in the Cities of Butuan and Cagayan De Oro on February 06, 2026 and Rescheduling the Same to February 08, 2026"
+    },
+    {
+      "n": "5",
+      "start": "Respiratory Therapists (CBLE)",
+      "d": "February 09 and 10, 2026",
+      "e": "Mon and Tue",
+      "r": "NCR, Baguio, Cebu, Davao, Pagadian, Pampanga, Cagayan De Oro, and Tuguegarao\nResolution No. 2142 s.2026 Designating Cagayan De Oro as Additional Testing Center for the February 2026 Respiratory Therapists Licensure Examination"
+    },
+    {
+      "n": "6",
+      "start": "Mechanical Engineers",
+      "d": "February 11, 12, and 13, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Palawan, Rosales, Tacloban, and Zamboanga"
+    },
+    {
+      "n": "7",
+      "start": "Certified Plant Mechanics (CBLE)",
+      "d": "February 11, 12, and 13, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, and Pampanga"
+    },
+    {
+      "n": "8",
+      "start": "Master Plumbers",
+      "d": "February 19 and 20, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Palawan, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "9",
+      "start": "Nurses",
+      "d": "February 26 and 27, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Ilocos Sur, Dumaguete (Negros Oriental), Laguna, Lipa (Batangas), Tagbilaran (Bohol), and Urdaneta (Pangasinan)\nResolution No. 2148 s.2026 Removing the Cities of Dumaguete and Tagbilaran as Testing Centers for the February 2026 Nurses Licensure Examination"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers Oral Examination",
+      "d": "February 26 to March 04, 2026",
+      "e": "Thur - Wed",
+      "r": "Dubai, United Arab Emirates"
+    },
+    {
+      "n": "10",
+      "start": "Medical Technologists",
+      "d": "March 05 and 06, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "11",
+      "start": "Professional Teachers",
+      "d": "March 15, 2026",
+      "e": "Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Bacolod, Batanes, Bayambang, Bohol, Cauayan, Digos, Dumaguete, General Santos, Ilocos Norte, Ilocos Sur, Kidapawan, Laguna, Lipa (Batangas), Maasin (Southern Leyte), Marinduque, Mati, Nueva Vizcaya, Oroquieta (Misamis Occidental), Romblon, Sablayan (Occidental Mindoro), Tagum, Masbate City and Virac, Catanduanes\nResolution No. 2146 s.2026 Designating Masbate City and Virac, Catanduanes as Additional Testing Centers for the March 2026 Licensure Examination for Professional Teachers"
+    },
+    {
+      "n": "12",
+      "start": "Electronics Engineers",
+      "d": "March 17 and 18, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga\nResolution No. 2154 s.2026 Removing Pagadian City as Testing Center for the March 2026 Electronics Engineers Licensure Examination"
+    },
+    {
+      "n": "13",
+      "start": "Electronics Technicians",
+      "d": "March 19, 2026",
+      "e": "Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga\nResolution No. 2155 s.2026 Removing Pagadian City as Testing Center for the March 2026 Electronics Technicians Licensure Examination"
+    },
+    {
+      "n": "14",
+      "start": "Physicians",
+      "d": "March 23, 24, 30, and 31, 2026",
+      "e": "Mon and Tue",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "15",
+      "start": "Civil Engineers",
+      "d": "March 26 and 27, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, and Ilocos Sur"
+    },
+    {
+      "n": "16",
+      "start": "Midwives",
+      "d": "April 14 and 15, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers (Oral Examination)",
+      "d": "April 15, 16 and 17, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "17",
+      "start": "Real Estate Brokers",
+      "d": "April 16, 2026",
+      "e": "Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "18",
+      "start": "Pharmacists",
+      "d": "April 18 and 19, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga\nResolution No. 2164 s.2026 Removing Legazpi City as Testing Center for the April 2026 Pharmacists Licensure Examination"
+    },
+    {
+      "n": "19",
+      "start": "Registered Electrical Engineers",
+      "d": "April 21 and 22, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "April 21, 22 and 23, 2026",
+      "e": "Tue, Wed and Thu",
+      "r": "Cagayan de Oro"
+    },
+    {
+      "n": "20",
+      "start": "Registered Master Electricians",
+      "d": "April 23, 2026",
+      "e": "Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "April 27, 28, 29 and 30, 2026",
+      "e": "Mon, Tue, Wed and Thu",
+      "r": "Cebu"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "April 29 and 30, 2026",
+      "e": "Wed and Thu",
+      "r": "Legazpi"
+    },
+    {
+      "n": "21",
+      "start": "Dentists (Written)",
+      "d": "May 04, 05, and 06, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR, Baguio, Cebu, and Davao"
+    },
+    {
+      "n": "22",
+      "start": "Dental Hygienists (Written-CBLE)",
+      "d": "May 07, 2026",
+      "e": "Thu",
+      "r": "NCR"
+    },
+    {
+      "n": "23",
+      "start": "Dental Hygienists (Practical)",
+      "d": "May 08, 2026",
+      "e": "Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "May 11, 12 and 13, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Legazpi"
+    },
+    {
+      "n": "24",
+      "start": "Dentists (Practical)",
+      "d": "May 11-14, 2026",
+      "e": "Mon, Tue, Wed and Thu",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "May 14 and 15, 2026",
+      "e": "Thu, and Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "25",
+      "start": "Speech-Language Pathologists (CBLE)",
+      "d": "May 18 and 19, 2026",
+      "e": "Mon and Tue",
+      "r": "NCR, Cagayan de Oro, Cebu, Davao, Lucena, and Pampanga"
+    },
+    {
+      "n": "26",
+      "start": "Chemical Engineers (CBLE)",
+      "d": "May 20, 21, and 22, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "27",
+      "start": "Certified Public Accountants",
+      "d": "May 24, 25, and 26, 2026",
+      "e": "Sun, Mon, and Tue",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "28",
+      "start": "Environmental Planners (CBLE)",
+      "d": "May 27 and 28, 2026",
+      "e": "Wed and Thu",
+      "r": "NCR, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Architect (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong and Singapore"
+    },
+    {
+      "n": "",
+      "start": "Medical Technologists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Certified Public Accountants (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri, Sat and Sun",
+      "r": "Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Chemical Engineers (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Civil Engineers (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Customs Broker (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Electronics Engineers (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Electronics Technicians (SPLE)",
+      "d": "May 31, 2026",
+      "e": "Sun",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Environmental Planners (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore"
+    },
+    {
+      "n": "",
+      "start": "Food Technologist (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Master Plumbers (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Mechanical Engineers (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Certified Plant Mechanics (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Midwives (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Nurses (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Agriculturists (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Hong Kong and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Professional Teachers (SPLE)",
+      "d": "May 31, 2026",
+      "e": "Sun",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Psychologists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong and Singapore"
+    },
+    {
+      "n": "",
+      "start": "Psychometricians (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong, Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Radiologic Technologists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "X-Ray Technologists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong"
+    },
+    {
+      "n": "",
+      "start": "Registered Electrical Engineers (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Registered Master Electricians (SPLE)",
+      "d": "May 31, 2026",
+      "e": "Sun",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Chemical Technician (SPLE)",
+      "d": "May 31, 2026",
+      "e": "Sun",
+      "r": "Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Respiratory Therapists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Hong Kong"
+    },
+    {
+      "n": "",
+      "start": "Social Workers (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Hong Kong"
+    },
+    {
+      "n": "",
+      "start": "Real Estate Appraisers (SPLE)",
+      "d": "May 31, 2026",
+      "e": "Sun",
+      "r": "Singapore"
+    },
+    {
+      "n": "",
+      "start": "Veterinary Medicine (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Singapore and Hong Kong"
+    },
+    {
+      "n": "",
+      "start": "Sanitary Engineer (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri. Sat and Sun",
+      "r": "Singapore"
+    },
+    {
+      "n": "",
+      "start": "Physical Therapists (SPLE)",
+      "d": "May 29 and 30, 2026",
+      "e": "Fri and Sat",
+      "r": "Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Criminologists (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri, Sat and Sun",
+      "r": "Singapore and Taiwan"
+    },
+    {
+      "n": "",
+      "start": "Aeronautical Engineers (SPLE)",
+      "d": "May 29, 30 and 31, 2026",
+      "e": "Fri, Sat and Sun",
+      "r": "Hong Kong"
+    },
+    {
+      "n": "29",
+      "start": "Physical Therapists",
+      "d": "June 02 and 03, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Baguio, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "30",
+      "start": "Occupational Therapists (CBLE)",
+      "d": "June 04, 2026",
+      "e": "Thu",
+      "r": "NCR, Baguio, Cebu, Davao, Legazpi, and Pampanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "June 08, 09 and 10, 2026",
+      "e": "Mon, Tue and Wed",
+      "r": "Lucena"
+    },
+    {
+      "n": "31",
+      "start": "Architects",
+      "d": "June 08 and 10, 2026",
+      "e": "Mon and Wed",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "June 15, 16, and 17, 2026",
+      "e": "Mon, Tue and Wed",
+      "r": "Calapan"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "June 15, 2026",
+      "e": "Mon",
+      "r": "Baguio"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "June 24, 25 and 26, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "Palawan"
+    },
+    {
+      "n": "32",
+      "start": "Interior Designers",
+      "d": "July 01, 02, and 03, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Cebu, Davao, and Rosales"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "July 06, 07, and 08, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Pagadian"
+    },
+    {
+      "n": "33",
+      "start": "Real Estate Appraisers",
+      "d": "July 07, 2026",
+      "e": "Tue",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "",
+      "d": "",
+      "e": "",
+      "r": ""
+    },
+    {
+      "n": "34",
+      "start": "Landscape Architects (CBLE)",
+      "d": "July 08, 09, and 10, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR and Cebu"
+    },
+    {
+      "n": "35",
+      "start": "Master Plumbers",
+      "d": "July 11 and 12, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "July 15, 16, and 17, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "Koronadal"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "July 16 and 17, 2026",
+      "e": "Thu, and Fri",
+      "r": "Cagayan de Oro"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "July 22, 23, and 24, 2026",
+      "e": "Wed, Thu and Fri",
+      "r": "Rosales"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "July 27, 28, 29, and 30, 2026",
+      "e": "Mon, Tue, Wed, and Thu,",
+      "r": "Baguio"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "July 30 and 31, 2026",
+      "e": "Thu, and Fri",
+      "r": "Koronadal"
+    },
+    {
+      "n": "36",
+      "start": "Criminologists",
+      "d": "August 01, 02, and 03, 2026",
+      "e": "Sat, Sun, and Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Antique, Bacolod, Bayambang, Bohol, Cauayan, Dumaguete, Ilocos Norte, Ilocos Sur, Kidapawan, Lipa (Batangas), Nueva Vizcaya, and Sablayan (Occidental Mindoro)"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers (Oral Examination)",
+      "d": "August 03, 04, and 05, 2026",
+      "e": "Mon, Tue and Wed",
+      "r": "Cagayan de Oro"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "August 04, 05, and 06, 2026",
+      "e": "Tue, Wed, and Thu",
+      "r": "NCR"
+    },
+    {
+      "n": "37",
+      "start": "Mechanical Engineers",
+      "d": "August 07, 08, and 09, 2026",
+      "e": "Fri, Sat, and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "38",
+      "start": "Certified Plant Mechanics (CBLE)",
+      "d": "August 07, 08, and 09, 2026",
+      "e": "Fri, Sat, and Sun",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, and Pampanga"
+    },
+    {
+      "n": "39",
+      "start": "Professional Food Technologists (CBLE)",
+      "d": "August 12 and 13, 2026",
+      "e": "Wed and Thu",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "August 13 and 14, 2026",
+      "e": "Thu and Fri",
+      "r": "Cebu"
+    },
+    {
+      "n": "40",
+      "start": "Medical Technologists",
+      "d": "August 15 and 16, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "41",
+      "start": "Guidance Counselors (CBLE)",
+      "d": "August 17 and 18, 2026",
+      "e": "Mon and Tue",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Koronadal, Lucena, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "42",
+      "start": "Psychologists (CBLE)",
+      "d": "August 19 and 20, 2026",
+      "e": "Wed and Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "43",
+      "start": "Psychometricians",
+      "d": "August 19 and 20, 2026",
+      "e": "Wed and Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "August 24, 25, and 26, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Iloilo"
+    },
+    {
+      "n": "44",
+      "start": "Sanitary Engineers (CBLE)",
+      "d": "August 24, 25, and 26, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR, Baguio, Cebu, Rosales, Pampanga, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "August 27 and 28, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "45",
+      "start": "Nurses",
+      "d": "August 29 and 30, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Cabanatuan, Cauayan, Dumaguete (Negros Oriental), Ilocos Sur, Laguna, Lipa (Batangas), Tagbilaran (Bohol), and Urdaneta (Pangasinan)"
+    },
+    {
+      "n": "46",
+      "start": "Foreign Medical Professionals (CBLE)",
+      "d": "September 01 and 02, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "September 01, 02 and 03, 2026",
+      "e": "Tue, Wed and Thu",
+      "r": "Davao"
+    },
+    {
+      "n": "47",
+      "start": "Librarians (CBLE)",
+      "d": "September 03 and 04, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban and Tuguegarao"
+    },
+    {
+      "n": "48",
+      "start": "Registered Electrical Engineers",
+      "d": "September 05 and 06, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "49",
+      "start": "Registered Master Electricians",
+      "d": "September 07, 2026",
+      "e": "Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "50",
+      "start": "Real Estate Consultants (Written)",
+      "d": "September 08, 2026",
+      "e": "Tue",
+      "r": "NCR, Cagayan de Oro, Cebu, and Davao"
+    },
+    {
+      "n": "51",
+      "start": "Social Workers",
+      "d": "September 09, 10, and 11, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "September 14, 15, 16, 17 and 18, 2026",
+      "e": "Mon, Tue, Wed, Thu, and Fri",
+      "r": "Cebu"
+    },
+    {
+      "n": "52",
+      "start": "Professional Teachers",
+      "d": "September 20, 2026",
+      "e": "Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga, Antique, Bacolod, Batanes, Bayambang, Bohol, Catarman, Cauayan, Digos, Dumaguete, General Santos, Ilocos Norte, Ilocos Sur, Kidapawan, Laguna, Lipa (Batangas), Marinduque, Mati, Nueva Vizcaya, Oroquieta (Misamis Occidental), Romblon, San Jose (Occidental Mindoro), Tagum and Valencia"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers (Oral Examination)",
+      "d": "September 21, 22 and 23, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Davao"
+    },
+    {
+      "n": "53",
+      "start": "Geodetic Engineers (CBLE)",
+      "d": "September 23 and 24, 2026",
+      "e": "Wed and Thu",
+      "r": "NCR, Baguio, Butuan, Cebu, Davao, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Rosales, Tacloban and Tuguegarao"
+    },
+    {
+      "n": "54",
+      "start": "Civil Engineers",
+      "d": "September 26 and 27, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, Zamboanga and Ilocos Sur"
+    },
+    {
+      "n": "55",
+      "start": "Ocular Pharmacologists (CBLE)",
+      "d": "September 28, 2026",
+      "e": "Mon",
+      "r": "NCR and Davao"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "September 29 and October 01, 2026",
+      "e": "Tue and Thu",
+      "r": "Baguio"
+    },
+    {
+      "n": "56",
+      "start": "Optometrists (Written-CBLE)",
+      "d": "September 28, 29, and 30, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR and Davao"
+    },
+    {
+      "n": "57",
+      "start": "Fisheries Professionals",
+      "d": "October 01 and 02, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "58",
+      "start": "Physicians",
+      "d": "October 03, 04, 10, and 11, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "59",
+      "start": "Real Estate Consultants (Revalida)",
+      "d": "October 05, 06, and 07, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "60",
+      "start": "Optometrists (Practical)",
+      "d": "October 05 to 09, and 12, 2026",
+      "e": "Mon to Fri, and Mon",
+      "r": "NCR"
+    },
+    {
+      "n": "61",
+      "start": "Naval Architects (CBLE)",
+      "d": "October 05, 06 and 07, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "62",
+      "start": "Professional Foresters",
+      "d": "October 08 and 09, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "63",
+      "start": "Chemical Technicians",
+      "d": "October 12, 2026",
+      "e": "Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "64",
+      "start": "Chemists (CBLE)",
+      "d": "October 13 and 14, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pampanga, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "65",
+      "start": "Pharmacists",
+      "d": "October 15 and 16, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "66",
+      "start": "Electronics Engineers",
+      "d": "October 17 and 18, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao and Zamboanga"
+    },
+    {
+      "n": "67",
+      "start": "Electronics Technicians",
+      "d": "October 19, 2026",
+      "e": "Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "October 19, 20, and 21, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "68",
+      "start": "Metallurgical Engineers (CBLE)",
+      "d": "October 20, 21, and 22, 2026",
+      "e": "Tue, Wed, and Thu",
+      "r": "NCR, Cagayan de Oro, Cebu, Davao, Lucena, and Pampanga"
+    },
+    {
+      "n": "69",
+      "start": "Mining Engineers (CBLE)",
+      "d": "October 20, 21, and 22, 2026",
+      "e": "Tue, Wed, and Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Koronadal, Lucena, Legazpi, and Tuguegarao"
+    },
+    {
+      "n": "70",
+      "start": "Certified Public Accountants",
+      "d": "October 24, 25, and 26, 2026",
+      "e": "Sat, Sun, and Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "71",
+      "start": "Veterinarians (CBLE)",
+      "d": "November 04, 05, and 06, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "72",
+      "start": "Midwives",
+      "d": "November 07 and 08, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Butuan, Calapan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "73",
+      "start": "Aeronautical Engineers (CBLE)",
+      "d": "November 09, 10, and 11, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "NCR, Cagayan de Oro, Davao, Legazpi, Lucena, Pampanga, and Rosales"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "November 09, 10, and 11, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Butuan"
+    },
+    {
+      "n": "74",
+      "start": "Nutritionist-Dietitians (CBLE)",
+      "d": "November 12 and 13, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "75",
+      "start": "Chemical Engineers (CBLE)",
+      "d": "November 14, 15, and 16, 2026",
+      "e": "Sat, Sun, and Mon",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Palawan, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "76",
+      "start": "Customs Brokers",
+      "d": "November 17 and 18, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR, Butuan, Cebu, Lucena, Davao, and Koronadal"
+    },
+    {
+      "n": "77",
+      "start": "Agricultural and Biosystems Engineers",
+      "d": "November 19 and 20, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Tacloban, and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Professional Electronics Engineers (Oral Examination)",
+      "d": "November 19 and 20, 2026",
+      "e": "Thu and Fri",
+      "r": "Davao"
+    },
+    {
+      "n": "78",
+      "start": "Dentists (Written)",
+      "d": "November 22, 23, and 24, 2026",
+      "e": "Sun, Mon, and Tue",
+      "r": "NCR, Baguio, Cebu, and Davao"
+    },
+    {
+      "n": "79",
+      "start": "Geologists (CBLE)",
+      "d": "November 25, 26, and 27, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "November 25, 26, and 27, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "Tacloban"
+    },
+    {
+      "n": "80",
+      "start": "Dentists (Practical)",
+      "d": "November 28 - December 05, 2026",
+      "e": "Sat-Sat",
+      "r": "NCR"
+    },
+    {
+      "n": "81",
+      "start": "Speech-Language Pathologists (CBLE)",
+      "d": "November 29 and 30, 2026",
+      "e": "Sun and Mon",
+      "r": "NCR, Cagayan de Oro, Cebu, Davao, Lucena, and Pampanga"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "November 30, December 01, and 02, 2026",
+      "e": "Mon, Tue, and Wed",
+      "r": "Cagayan de Oro, Cebu"
+    },
+    {
+      "n": "82",
+      "start": "Agriculturists",
+      "d": "December 01, 02, and 03, 2026",
+      "e": "Tue, Wed, and Thu",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Calapan, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Palawan, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "83",
+      "start": "Occupational Therapists (CBLE)",
+      "d": "December 04, 2026",
+      "e": "Fri",
+      "r": "NCR, Baguio, Cebu, Davao, Legazpi, and Pampanga"
+    },
+    {
+      "n": "84",
+      "start": "Physical Therapists",
+      "d": "December 05 and 06, 2026",
+      "e": "Sat and Sun",
+      "r": "NCR, Baguio, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, and Tuguegarao"
+    },
+    {
+      "n": "85",
+      "start": "Dental Technologists (Written-CBLE)",
+      "d": "December 07, 2026",
+      "e": "Mon",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "December 07, 08, and 09, 2026",
+      "e": "Mon, Tue and Wed",
+      "r": "Cebu"
+    },
+    {
+      "n": "86",
+      "start": "Dental Technologists (Practical)",
+      "d": "December 08 and 09, 2026",
+      "e": "Tue and Wed",
+      "r": "NCR"
+    },
+    {
+      "n": "",
+      "start": "Professional Electrical Engineers (Oral Examination)",
+      "d": "December 09, 10 and 11, 2026",
+      "e": "Wed, Thu, and Fri",
+      "r": "NCR"
+    },
+    {
+      "n": "87",
+      "start": "Radiologic Technologists",
+      "d": "December 10 and 11, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Legazpi, Lucena, Pampanga, Rosales, Tacloban, Tuguegarao, and Zamboanga"
+    },
+    {
+      "n": "88",
+      "start": "X-Ray Technologists (CBLE)",
+      "d": "December 10 and 11, 2026",
+      "e": "Thu and Fri",
+      "r": "NCR, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pampanga, Rosales, Palawan and Tuguegarao"
+    },
+    {
+      "n": "",
+      "start": "Professional Mechanical Engineers (Technical Evaluation)",
+      "d": "December 14, 15, and 16, 2026",
+      "e": "Mon, Tue and Wed",
+      "r": "NCR"
     }
   ]
 }
