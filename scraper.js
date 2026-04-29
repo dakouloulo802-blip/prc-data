@@ -18,7 +18,7 @@ async function run(){
 
       return {html, year: y};
 
-    }catch(e){
+    }catch{
       console.log("Failed year:", y);
       return null;
     }
@@ -41,23 +41,43 @@ async function run(){
 
     if(tds.length < 5) return;
 
+    let examDate = $(tds[3]).text().trim();
+
+    // 🔥 CLEAN DATE (important for your countdown)
+    examDate = examDate.split("-")[0].trim();
+
     data.push({
       n: $(tds[0]).text().trim(),
       start: $(tds[1]).text().trim(),
       d: $(tds[2]).text().trim(),
-      e: $(tds[3]).text().trim(),
+      e: examDate,
       r: $(tds[4]).text().trim()
     });
   });
 
   const output = {
     year: result.year,
+    updated: new Date().toISOString(),
     data: data
   };
 
-  fs.writeFileSync(`prc-${result.year}.json`, JSON.stringify(output, null, 2));
+  const file = `prc-${result.year}.json`;
 
-  console.log("Saved JSON successfully");
+  let oldData = "";
+  if(fs.existsSync(file)){
+    oldData = fs.readFileSync(file, "utf-8");
+  }
+
+  const newData = JSON.stringify(output, null, 2);
+
+  if(oldData === newData){
+    console.log("No changes detected");
+    process.exit(0); // 🔥 STOP HERE (NO COMMIT)
+  }
+
+  fs.writeFileSync(file, newData);
+
+  console.log("Updated file");
 
 }
 
