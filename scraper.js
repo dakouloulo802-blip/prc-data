@@ -1,38 +1,43 @@
-let rawDate = $(tds[2]).text().trim();
+$("table tbody tr").each((i, el)=>{
+  const tds = $(el).find("td");
 
-/* 🔥 CLEAN TEXT */
-rawDate = rawDate.replace(/and/g, "").replace(/\s+/g, " ").trim();
+  if(tds.length < 8) return;
 
-/* 🔥 EXTRACT MONTH + YEAR */
-let monthMatch = rawDate.match(/([A-Za-z]+)/);
-let yearMatch = rawDate.match(/(\d{4})/);
+  let rawDate = $(tds[2]).text().trim();
 
-let month = monthMatch ? monthMatch[1] : "";
-let year = yearMatch ? yearMatch[1] : result.year;
+  /* CLEAN */
+  rawDate = rawDate.replace(/and/g, "").replace(/\s+/g, " ").trim();
 
-/* 🔥 EXTRACT ALL DAYS */
-let days = rawDate.match(/\d{1,2}/g) || [];
+  /* EXTRACT */
+  let monthMatch = rawDate.match(/([A-Za-z]+)/);
+  let yearMatch = rawDate.match(/(\d{4})/);
 
-/* remove invalid numbers (like year parts) */
-days = days.map(Number).filter(d => d <= 31);
+  let month = monthMatch ? monthMatch[1] : "";
+  let year = yearMatch ? yearMatch[1] : result.year;
 
-/* 🔥 BUILD DISPLAY RANGE */
-let displayDate = rawDate;
+  let days = rawDate.match(/\d{1,2}/g) || [];
+  days = days.map(Number).filter(d => d <= 31);
 
-if(days.length > 1){
-  displayDate = `${month} ${Math.min(...days)}-${Math.max(...days)}, ${year}`;
-}else if(days.length === 1){
-  displayDate = `${month} ${days[0]}, ${year}`;
-}
+  /* BUILD RANGE */
+  let displayDate = rawDate;
 
-/* 🔥 FIRST DAY FOR COUNTDOWN */
-let startDate = days.length ? `${month} ${days[0]}, ${year}` : displayDate;
+  if(days.length > 1){
+    displayDate = `${month} ${Math.min(...days)}-${Math.max(...days)}, ${year}`;
+  } else if(days.length === 1){
+    displayDate = `${month} ${days[0]}, ${year}`;
+  }
 
-data.push({
-  n: $(tds[1]).text().trim(),
-  start: $(tds[5]).text().trim(),
-  d: $(tds[6]).text().trim(),
-  e: displayDate,     // 👉 FULL RANGE FOR UI
-  e_start: startDate, // 👉 FIRST DAY FOR LOGIC
-  r: $(tds[7]).text().trim()
+  /* FIRST DAY */
+  let startDate = days.length
+    ? `${month} ${days[0]}, ${year}`
+    : displayDate;
+
+  data.push({
+    n: $(tds[1]).text().trim(),
+    start: $(tds[5]).text().trim(),
+    d: $(tds[6]).text().trim(),
+    e: displayDate,
+    e_start: startDate,
+    r: $(tds[7]).text().trim()
+  });
 });
