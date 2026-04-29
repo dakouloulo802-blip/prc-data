@@ -6,14 +6,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 👈 FIXED POSITION
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
@@ -32,8 +29,11 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add .
-          git commit -m "auto update PRC data" || echo "no changes"
+
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "auto update PRC data"
+
           git push
