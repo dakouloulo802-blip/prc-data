@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-05-28T04:13:33.386Z",
+  "updated": "2026-05-28T16:15:01.976Z",
   "data": [
     {
       "n": "Real Estate Consultants (Revalida)",
@@ -589,6 +589,13 @@
       "d": "July 09, 2026",
       "e": "July 16 17, 2026",
       "r": "October 23, 2026"
+    },
+    {
+      "n": "Professional Electronics Engineers (Oral Examination)",
+      "start": "June 10, 2026",
+      "d": "July 10, 2026",
+      "e": "July 23 24, 2026",
+      "r": ""
     },
     {
       "n": "Professional Mechanical Engineers (Technical Evaluation)",
