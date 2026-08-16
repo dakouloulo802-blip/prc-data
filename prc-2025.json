@@ -1,0 +1,1084 @@
+{
+  "year": 2025,
+  "updated": "2026-08-16T12:50:43.798Z",
+  "data": [
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATION",
+      "e": "DATE/S OF EXAMINATION, 2025",
+      "r": "TARGET DATE/S OF RELEASE OF EXAMINATION RESULTS"
+    },
+    {
+      "n": "Real Estate Consultants (Revalida)",
+      "start": "September 04, 2024",
+      "d": "November 04, 2024",
+      "e": "January 13 15, 2025",
+      "r": "January 17, 2025"
+    },
+    {
+      "n": "Architects",
+      "start": "November 20, 2024",
+      "d": "December 23, 2024",
+      "e": "January 21, 23, 2025",
+      "r": "January 28, 2025"
+    },
+    {
+      "n": "Criminologists",
+      "start": "November 20, 2024",
+      "d": "December 26, 2024",
+      "e": "February 5 7, 2025",
+      "r": "March 07, 2025"
+    },
+    {
+      "n": "Respiratory Therapists",
+      "start": "November 20, 2024",
+      "d": "January 13, 2025\n(Extended to January 21, 2025)\nResolution No. 1942 s.2025 - Extending the Deadline for the Filing of Application for the February 2025 Respiratory Therapists Licensure Examination from January 13, 2025 to January 21, 2025",
+      "e": "February 11 12, 2025",
+      "r": "February 14, 2025"
+    },
+    {
+      "n": "Mechanical Engineers",
+      "start": "November 20, 2024",
+      "d": "January 17, 2025",
+      "e": "February 17 19, 2025",
+      "r": "February 24, 2025"
+    },
+    {
+      "n": "Certified Plant Mechanics*",
+      "start": "November 20, 2024",
+      "d": "January 07, 2025",
+      "e": "February 17 19, 2025",
+      "r": "February 24, 2025"
+    },
+    {
+      "n": "Master Plumbers",
+      "start": "November 20, 2024",
+      "d": "January 13, 2025",
+      "e": "February 20 21, 2025",
+      "r": "February 27, 2025"
+    },
+    {
+      "n": "Sanitary Engineers*",
+      "start": "November 20, 2024",
+      "d": "January 20, 2025",
+      "e": "February 26 28, 2025",
+      "r": "March 03, 2025"
+    },
+    {
+      "n": "Professional Teachers",
+      "start": "November 20, 2024",
+      "d": "January 15, 2025",
+      "e": "March 23, 2025",
+      "r": "May 23, 2025"
+    },
+    {
+      "n": "Medical Technologists",
+      "start": "December 27, 2024",
+      "d": "February 26, 2025",
+      "e": "March 26 27, 2025",
+      "r": "April 02 , 2025"
+    },
+    {
+      "n": "Physicians",
+      "start": "December 16, 2024",
+      "d": "February 14, 2025",
+      "e": "March 30, 31, 6, 7, 2025",
+      "r": "April 14, 2025"
+    },
+    {
+      "n": "Electronics Engineers",
+      "start": "January 02, 2025",
+      "d": "March 03, 2025",
+      "e": "April 2 3, 2025",
+      "r": "April 11, 2025"
+    },
+    {
+      "n": "Electronics Technicians",
+      "start": "January 03, 2025",
+      "d": "March 04, 2025",
+      "e": "April 4, 2025",
+      "r": "April 11, 2025"
+    },
+    {
+      "n": "Pharmacists",
+      "start": "January 09, 2025",
+      "d": "March 10, 2025",
+      "e": "April 10 11, 2025",
+      "r": "April 15, 2025"
+    },
+    {
+      "n": "Midwives",
+      "start": "January 03, 2025",
+      "d": "March 03, 2025",
+      "e": "April 14 15, 2025",
+      "r": "April 22, 2025"
+    },
+    {
+      "n": "Real Estate Brokers",
+      "start": "January 23, 2025",
+      "d": "March 24, 2025",
+      "e": "April 22, 2025",
+      "r": "April 24, 2025"
+    },
+    {
+      "n": "Registered Electrical Engineers",
+      "start": "January 16, 2025",
+      "d": "March 17, 2025",
+      "e": "April 23 24, 2025",
+      "r": "April 30, 2025"
+    },
+    {
+      "n": "Registered Master Electricians",
+      "start": "January 02, 2025",
+      "d": "March 03, 2025",
+      "e": "April 25, 2025",
+      "r": "April 30, 2025"
+    },
+    {
+      "n": "Civil Engineers",
+      "start": "December 11, 2024",
+      "d": "February 11, 2025\n(Extended to March 11, 2025)\nResolution No. 1950 s.2025 - Extending the Deadline for the Filing of Application for the April 2025 Civil Engineers Licensure Examination from February 11, 2025 to March 11, 2025",
+      "e": "April 28 29, 2025",
+      "r": "May 06, 2025"
+    },
+    {
+      "n": "Nurses",
+      "start": "January 21, 2025",
+      "d": "March 21, 2025",
+      "e": "May 5 6, 2025",
+      "r": "May 14, 2025"
+    },
+    {
+      "n": "Dentists (Written)",
+      "start": "February 06, 2025",
+      "d": "April 07, 2025",
+      "e": "May 7 9, 2025",
+      "r": "May 26, 2025"
+    },
+    {
+      "n": "Dentists (Practical)",
+      "start": "February 06, 2025",
+      "d": "April 07, 2025",
+      "e": "May 13, 20, 1, 8, 20, 25, 19, 20, 25, 20, 25, 13, 20, 20, 25, 1, 8, 20, 25, 2025",
+      "r": "May 26, 2025"
+    },
+    {
+      "n": "Speech-Language Pathologists",
+      "start": "",
+      "d": "",
+      "e": "May 18 19, 2025",
+      "r": ""
+    },
+    {
+      "n": "Chemical Engineers",
+      "start": "February 20, 2025",
+      "d": "April 21, 2025",
+      "e": "May 21 23, 2025",
+      "r": "May 27, 2025"
+    },
+    {
+      "n": "Certified Public Accountants",
+      "start": "February 13, 2025",
+      "d": "April 14, 2025",
+      "e": "May 25 27, 2025",
+      "r": "June 03, 2025"
+    },
+    {
+      "n": "Dental Hygienists (Written)*",
+      "start": "February 28, 2025",
+      "d": "April 29, 2025",
+      "e": "May 29, 2025",
+      "r": "June 02, 2025"
+    },
+    {
+      "n": "Dental Hygienists (Practical)",
+      "start": "February 28, 2025",
+      "d": "April 29, 2025",
+      "e": "May 30, 2025",
+      "r": "June 02, 2025"
+    },
+    {
+      "n": "Dentists (Practical)",
+      "start": "",
+      "d": "",
+      "e": "June 3, 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Occupational Therapists",
+      "start": "March 03, 2025",
+      "d": "May 02, 2025",
+      "e": "June 1 2, 2025",
+      "r": "June 04, 2025"
+    },
+    {
+      "n": "Physical Therapists",
+      "start": "March 06, 2025",
+      "d": "May 05, 2025",
+      "e": "June 5 6, 2025",
+      "r": "June 10, 2025"
+    },
+    {
+      "n": "Architects",
+      "start": "March 13, 2025",
+      "d": "April 04, 2025",
+      "e": "June 11, 13, 2025",
+      "r": "June 18, 2025"
+    },
+    {
+      "n": "Aeronautical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Aeronautical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Architects (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Architects (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Certified Public Accountants (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Certified Public Accountants (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Chemical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Civil Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Civil Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Customs Brokers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Electronics Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Electronics Technicians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Electronics Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Electronics Technicians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Environmental Planners (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Environmental Planners (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Geodetic Engineering (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Geodetic Engineering (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Master Plumbers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Master Plumbers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Mechanical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Certified Plant Mechanics (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Mechanical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Certified Plant Mechanics (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Medical Technologists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Medical Technologists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Midwifery (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Midwifery (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Nurses (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Nurses (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Pharmacists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Pharmacists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Physical Therapists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Physical Therapists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Radiologic Technologists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Radiologic Technologists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "X-Ray Technologists (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Real Estate Appraisers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Real Estate Appraisers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Real Estate Brokers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Real Estate Brokers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Registered Electrical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Registered Master Electricians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Registered Electrical Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Registered Master Electricians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Respiratory Therapy (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Psychometricians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Psychometricians (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 7, 2025",
+      "r": ""
+    },
+    {
+      "n": "Sanitary Engineers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Social Workers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Social Workers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Veterinary Medicine (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Veterinary Medicine (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 6 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Chemical Technician (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Chemical Technician (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Professional Teachers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Professional Teachers (SPLE)",
+      "start": "",
+      "d": "",
+      "e": "June 8, 2025",
+      "r": ""
+    },
+    {
+      "n": "Interior Designers",
+      "start": "April 03, 2025\n(Reopening the Filing of Application \nJune 09 - 13, 2025)\nResolution No. 2031 s.2025 - Reopening the Filing of Application for the July 2025 Interior Designers Licensure Examination from June 09, 2025 to June 13, 2025",
+      "d": "May 30, 2025",
+      "e": "July 1 3, 2025",
+      "r": "July 23, 2025"
+    },
+    {
+      "n": "Master Plumbers",
+      "start": "March 25, 2025",
+      "d": "May 27, 2025",
+      "e": "July 12 13, 2025",
+      "r": "July 16, 2025"
+    },
+    {
+      "n": "Landscape Architects*",
+      "start": "April 18, 2025\n(Reopening the Filing of Application\nOctober 1-31, 2025)\nResolution No. 2058 s.2025 - Reopening the Filing of Application for the November 2025 Landscape Architects Licensure Examination from October 01, 2025 to October 31, 2025",
+      "d": "June 17, 2025",
+      "e": "July 17, 18, 27, 29, 20, 25, 20, 25, 20, 25, 20, 25, 17, 18, 20, 25, 27, 29, 20, 25, 2025",
+      "r": "July 22, 2025"
+    },
+    {
+      "n": "Real Estate Appraisers",
+      "start": "April 24, 2025",
+      "d": "June 23, 2025",
+      "e": "July 22, 2025",
+      "r": "July 25, 2025"
+    },
+    {
+      "n": "Environmental Planners",
+      "start": "March 14, 2025",
+      "d": "May 16, 2025",
+      "e": "July 24 25, 2025",
+      "r": "July 29, 2025"
+    },
+    {
+      "n": "Criminologists",
+      "start": "March 26, 2025",
+      "d": "May 27, 2025",
+      "e": "August 1 3, 2025",
+      "r": "September 16, 2025"
+    },
+    {
+      "n": "Guidance Counselors",
+      "start": "April 01, 2025\n(Reopening the Filing of Application \nJune 02 - 16, 2025)\nResolution No. 2028 s.2025 - Reopening the Filing of Application for the August 2025 Guidance Counselors Licensure Examination from 02 to 16 June 2025",
+      "d": "May 30, 2025",
+      "e": "August 6 7, 2025",
+      "r": "August 11, 2025"
+    },
+    {
+      "n": "Mechanical Engineers",
+      "start": "May 08, 2025",
+      "d": "July 09, 2025\n(Extended to July 18, 2025)\nResolution No. 2042 s.2025 - Extending the Deadline for the Filing of Application for the August 2025 Mechanical Engineers Licensure Examination from July 09, 2025 to July 18, 2025",
+      "e": "August 9 11, 2025",
+      "r": "August 15, 2025"
+    },
+    {
+      "n": "Certified Plant Mechanics*",
+      "start": "April 30, 2025",
+      "d": "June 30, 2025",
+      "e": "August 9 11, 2025",
+      "r": "August 15, 2025"
+    },
+    {
+      "n": "Medical Technologists",
+      "start": "May 15, 2025",
+      "d": "July 14, 2025\n(Extended to July 21, 2025)\nResolution No. 2046 s.2025 - Extending the Deadline for the Filing of Application for the August 2025 Medical Technologists Licensure Examination from July 14, 2025 to July 21, 2025",
+      "e": "August 12 13, 2025",
+      "r": "August 20, 2025"
+    },
+    {
+      "n": "Food Technologists",
+      "start": "May 15, 2025",
+      "d": "July 14, 2025",
+      "e": "August 14 15, 2025",
+      "r": "August 19, 2025"
+    },
+    {
+      "n": "Registered Electrical Engineers",
+      "start": "May 12, 2025",
+      "d": "July 11, 2025",
+      "e": "August 18 19, 2025",
+      "r": "August 28, 2025"
+    },
+    {
+      "n": "Registered Master Electricians",
+      "start": "May 02, 2025",
+      "d": "July 01, 2025",
+      "e": "August 20, 2025",
+      "r": "August 28, 2025"
+    },
+    {
+      "n": "Environmental Planners",
+      "start": "",
+      "d": "",
+      "e": "August 21 22, 2025",
+      "r": ""
+    },
+    {
+      "n": "Sanitary Engineers",
+      "start": "May 08, 2025",
+      "d": "July 08, 2025",
+      "e": "August 27 29, 2025",
+      "r": "September 01, 2025"
+    },
+    {
+      "n": "Qualifying Assessment for Foreign Medical Professionals*",
+      "start": "June 02, 2025",
+      "d": "August 01, 2025",
+      "e": "September 1 2, 2025",
+      "r": "September 04, 2025"
+    },
+    {
+      "n": "Real Estate Brokers\nResolution No. 1983 s.2025- Cancelling the September 2025 Real Estate Brokers Licensure Examination",
+      "start": "June 04, 2025",
+      "d": "August 04, 2025",
+      "e": "September 3, 2025",
+      "r": "September 05, 2025"
+    },
+    {
+      "n": "Librarians*",
+      "start": "June 05, 2025\n(Reopening the Filing of Application \nAugust 06 - 13, 2025)\nResolution No. 2062 s.2025 - Reopening the Filing of Application for the September 2025 Librarians Computer-Based Licensure Examination from August 6, 2025 to August 13, 2025",
+      "d": "August 04, 2025",
+      "e": "September 4 5, 2025",
+      "r": "September 08, 2025"
+    },
+    {
+      "n": "Social Workers",
+      "start": "June 11, 2025",
+      "d": "August 11, 2025\n(Extended to August 20, 2025)\nResolution No. 2065 s.2025 - Extending the Deadline for the Filing of Application for the September 2025 Social Workers Licensure Examination from August 11, 2025 to August 20, 2025",
+      "e": "September 8 10, 2025",
+      "r": "August 20, 2025"
+    },
+    {
+      "n": "Professional Teachers\nResolution No.2032 s.2025-\n\t\t\tRescheduling the filing of applications for the September 2025 LEPT\nReso 2103 s. 2025\n\t\t\tCancellation and Reschedule of LEPT",
+      "start": "June 23, 2025",
+      "d": "August 11, 2025",
+      "e": "September 21, 2025",
+      "r": "December 05, 2025"
+    },
+    {
+      "n": "Psychologists*",
+      "start": "June 19, 2025\n(Reopening the Filing of Application \nSeptember 2 - 4, 2025)\nResolution No. 2075 s.2025 - Reopening the Filing of Application for the September 2025 Psychologist and Psychometricians Licensure Examinations from September 2, 2025 to September 4, 2025",
+      "d": "August 18, 2025",
+      "e": "September 24 25, 2025",
+      "r": "September 29, 2025"
+    },
+    {
+      "n": "Psychometricians",
+      "start": "June 26, 2025\n(Reopening the Filing of Application \nSeptember 2 - 4, 2025)\nResolution No. 2075 s.2025 - Reopening the Filing of Application for the September 2025 Psychologist and Psychometricians Licensure Examinations from September 2, 2025 to September 4, 2025",
+      "d": "August 25, 2025",
+      "e": "September 24 25, 2025",
+      "r": "October 02 , 2025"
+    },
+    {
+      "n": "Civil Engineers\nReso 2099 s. 2025\n\t\t\tCancellation and Reschedule of Civil Engineers Licensure Examination",
+      "start": "June 13, 2025",
+      "d": "August 15, 2025",
+      "e": "September 27 28, 2025",
+      "r": "October 06, 2025"
+    },
+    {
+      "n": "Geodetic Engineers",
+      "start": "June 30, 2025",
+      "d": "August 29, 2025\n(Extended to September 05, 2025)\nResolution No. 2056 s.2025 - Extending the Deadline for the Filing of Application for the September 2025 Geodetic Engineers Licensure Examination from August 29, 2025 to September 05, 2025",
+      "e": "September 29 30, 2025",
+      "r": "October 03, 2025"
+    },
+    {
+      "n": "Ocular Pharmacologists*",
+      "start": "July 03, 2025",
+      "d": "September 01, 2025",
+      "e": "October 1, 2025",
+      "r": "October 14, 2025"
+    },
+    {
+      "n": "Optometrists (Written)*",
+      "start": "July 03, 2025",
+      "d": "September 01, 2025",
+      "e": "October 1 3, 2025",
+      "r": "October 14, 2025"
+    },
+    {
+      "n": "Physicians",
+      "start": "May 22, 2025",
+      "d": "July 22, 2025",
+      "e": "October 4, 5, 11, 12, 2025",
+      "r": "October 16, 2025"
+    },
+    {
+      "n": "Naval Architects*",
+      "start": "July 10, 2025",
+      "d": "September 08, 2025",
+      "e": "October 6 8, 2025",
+      "r": "October 10, 2025"
+    },
+    {
+      "n": "Optometrists (Practical)",
+      "start": "July 03, 2025",
+      "d": "September 01, 2025",
+      "e": "October 6, 10, 13, 2025",
+      "r": "October 14, 2025"
+    },
+    {
+      "n": "Fisheries Professionals",
+      "start": "July 11, 2025",
+      "d": "September 09, 2025",
+      "e": "October 9 10, 2025",
+      "r": "October 15, 2025"
+    },
+    {
+      "n": "Chemists*",
+      "start": "July 17, 2025",
+      "d": "September 15, 2025",
+      "e": "October 13 14, 2025",
+      "r": "October 22, 2025"
+    },
+    {
+      "n": "Chemical Technicians",
+      "start": "June 06, 2025",
+      "d": "August 08, 2025",
+      "e": "October 15, 2025",
+      "r": "October 22, 2025"
+    },
+    {
+      "n": "Professional Foresters",
+      "start": "July 21, 2025",
+      "d": "September 19, 2025\n(Extended to September 26, 2025)\nResolution No. 2090 s.2025 - Extending the Deadline for the Filing of Application for the October 2025 Professional Foresters Licensure Examination from September 19, 2025 to September 26, 2025",
+      "e": "October 16 17, 2025",
+      "r": "October 21, 2025"
+    },
+    {
+      "n": "Electronics Engineers",
+      "start": "July 24, 2025",
+      "d": "September 22, 2025",
+      "e": "October 18 19, 2025",
+      "r": "October 24, 2025"
+    },
+    {
+      "n": "Electronics Technicians",
+      "start": "July 25, 2025",
+      "d": "September 22, 2025",
+      "e": "October 20, 2025",
+      "r": "October 24, 2025"
+    },
+    {
+      "n": "Metallurgical Engineers*",
+      "start": "July 24, 2025",
+      "d": "September 22, 2025\n(Extended to September 30, 2025)\nResolution No. 2091 s.2025 - Extending the Deadline for the Filing of Application for the October 2025 Metallurgical Engineers Licensure Examination from September 23, 2025 to September 30, 2025",
+      "e": "October 21 23, 2025",
+      "r": "October 27, 2025"
+    },
+    {
+      "n": "Mining Engineers*",
+      "start": "July 24, 2025",
+      "d": "September 22, 2025",
+      "e": "October 21 23, 2025",
+      "r": "October 27, 2025"
+    },
+    {
+      "n": "Certified Public Accountants",
+      "start": "July 15, 2025",
+      "d": "September 15, 2025",
+      "e": "October 24 26, 2025",
+      "r": "November 04, 2025"
+    },
+    {
+      "n": "Veterinarians*",
+      "start": "July 31, 2025",
+      "d": "September 29, 2025",
+      "e": "October 27 29, 2025",
+      "r": "November 03, 2025"
+    },
+    {
+      "n": "Nurses\nResolution No. 2119 s.2025- Cancellation of NLE in Cebu, Ilo & Tac and Reschedule on Nov 6 and 7",
+      "start": "July 21, 2025",
+      "d": "September 22, 2025",
+      "e": "November 4 5, 2025",
+      "r": "November 26, 2025"
+    },
+    {
+      "n": "Nutritionists-Dietitians*",
+      "start": "August 07, 2025",
+      "d": "October 06, 2025",
+      "e": "November 6 7, 2025",
+      "r": "November 11, 2025"
+    },
+    {
+      "n": "Midwives",
+      "start": "July 22, 2025",
+      "d": "September 23, 2025",
+      "e": "November 8 9, 2025",
+      "r": "November 12, 2025"
+    },
+    {
+      "n": "Agriculturists",
+      "start": "August 11, 2025",
+      "d": "October 10, 2025",
+      "e": "November 10 12, 2025",
+      "r": "November 19, 2025"
+    },
+    {
+      "n": "Speech-Language Pathologists*",
+      "start": "August 14, 2025",
+      "d": "October 13, 2025",
+      "e": "November 13 14, 2025",
+      "r": "November 17, 2025"
+    },
+    {
+      "n": "Pharmacists",
+      "start": "July 25, 2025",
+      "d": "September 24, 2025",
+      "e": "November 15 16, 2025",
+      "r": "November 21, 2025"
+    },
+    {
+      "n": "Customs Brokers",
+      "start": "August 18, 2025",
+      "d": "October 17, 2025",
+      "e": "November 17 18, 2025",
+      "r": "November 20, 2025"
+    },
+    {
+      "n": "Agriculturists (Rescheduled)",
+      "start": "",
+      "d": "",
+      "e": "November 19 21, 2025",
+      "r": ""
+    },
+    {
+      "n": "Professional Mechanical Engineers Oral Examination/Technical Evaluation\nResolution No. 32 s.2025- Scheduling the Face-to-Face Oral Examination for Professional Mechanical Engineers in Japan and Qatar",
+      "start": "October 13, 2025\nResolution No. 2100 s.2025- Opening of the Online Filing of Application for the Professional Mechanical Engineers Oral Examination/Technical Evaluation in Japan and Qatar from October 13 to November 13, 2025",
+      "d": "November 13, 2025",
+      "e": "Resolution 19, 20, 20, 25, 19, 22, 20, 25, 2025",
+      "r": ""
+    },
+    {
+      "n": "Chemical Engineers*",
+      "start": "August 21, 2025",
+      "d": "October 20, 2025",
+      "e": "November 19 21, 2025",
+      "r": "November 25, 2025"
+    },
+    {
+      "n": "Civil Engineers\nReso no. 2099 s. 2025 Reschedule of Civil Engineers Licensure Exam",
+      "start": "",
+      "d": "",
+      "e": "November 22 23, 2025",
+      "r": ""
+    },
+    {
+      "n": "Geologists*",
+      "start": "",
+      "d": "",
+      "e": "November 24 26, 2025",
+      "r": ""
+    },
+    {
+      "n": "Real Estate Appraisers\nResolution No. 2069 s.2025 - Additional Schedule for the Conduct of the Real Estate Appraisers Licensure Examination on November 23, 2025 in the National Capital Region, Baguio, Butuan, Cagayan De Oro, Cebu, Davao, Iloilo, Legazpi, Lucena and Tacloban as Testing Centers",
+      "start": "September 08, 2025",
+      "d": "October 23, 2025",
+      "e": "November 23, 2025",
+      "r": "November 26, 2025"
+    },
+    {
+      "n": "Dentists (Written)",
+      "start": "August 22, 2025",
+      "d": "October 23, 2025",
+      "e": "November 24 26, 2025",
+      "r": "December 15, 2025"
+    },
+    {
+      "n": "Landscape Architect\nResolution No. 2127 s.2025 - Cancellation of November 2025 Landscape Architects CBLE",
+      "start": "",
+      "d": "",
+      "e": "November 27, 29, 2025",
+      "r": ""
+    },
+    {
+      "n": "Professional Teachers\nReso No. 2103 s. 2025 -  Cancellation and Rescheduling of LEPT",
+      "start": "",
+      "d": "",
+      "e": "November 30, 2025",
+      "r": "December 19, 2025"
+    },
+    {
+      "n": "Occupational Therapists*\nResolution No. 2124 s.2025 - Conducting Occupational Therapists Computer-Based Licensure Examination on December 02, 2025",
+      "start": "September 04, 2025",
+      "d": "November 03, 2025",
+      "e": "December 2, 2025",
+      "r": "December 04, 2025"
+    },
+    {
+      "n": "Dentists (Practical)",
+      "start": "August 22, 2025",
+      "d": "October 23, 2025",
+      "e": "December 1, 6, 2025",
+      "r": "December 15, 2025"
+    },
+    {
+      "n": "Real Estate Consultants (Written)\nReso No. 2131(s. 2025) - Removing Cagayan De Oro As Testing Center For The December 2025 Real Estate Consultants Licensure Examination - Written Phase",
+      "start": "August 21, 2025",
+      "d": "October 21, 2025",
+      "e": "December 3, 2025",
+      "r": "To be announced."
+    },
+    {
+      "n": "Agricultural and Biosystems Engineers",
+      "start": "August 05, 2025",
+      "d": "October 22, 2025",
+      "e": "December 4 5, 2025",
+      "r": "December 11, 2025"
+    },
+    {
+      "n": "Physical Therapist",
+      "start": "September 05, 2025",
+      "d": "November 06, 2025",
+      "e": "December 6 7, 2025",
+      "r": "December 10, 2025"
+    },
+    {
+      "n": "Aeronautical Engineers*",
+      "start": "September 11, 2025",
+      "d": "November 10, 2025",
+      "e": "December 8 10, 2025",
+      "r": "December 11, 2025"
+    },
+    {
+      "n": "Radiologic Technologists",
+      "start": "September 12, 2025",
+      "d": "November 11, 2025",
+      "e": "December 11 12, 2025",
+      "r": "December 17, 2025"
+    },
+    {
+      "n": "X-Ray Technologists*",
+      "start": "September 12, 2025",
+      "d": "November 11, 2025",
+      "e": "December 11 12, 2025",
+      "r": "December 17, 2025"
+    },
+    {
+      "n": "Dental Technologists (Written)*",
+      "start": "September 18, 2025",
+      "d": "November 17, 2025",
+      "e": "December 15, 2025",
+      "r": "December 18, 2025"
+    },
+    {
+      "n": "Dental Technologists (Practical)",
+      "start": "September 18, 2025",
+      "d": "November 17, 2025",
+      "e": "December 16 17, 2025",
+      "r": "December 18, 2025"
+    }
+  ]
+}
