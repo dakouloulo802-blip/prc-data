@@ -1,7 +1,14 @@
 {
   "year": 2026,
-  "updated": "2026-08-20T01:38:12.821Z",
+  "updated": "2026-08-20T13:00:06.115Z",
   "data": [
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "APPLICATION PERIOD",
+      "d": "TARGET DATE OF RELEASE OF EXAMINATION RESULTS",
+      "e": "DATE/S OF EXAMINATION, 2026",
+      "r": "REQUIREMENTS"
+    },
     {
       "n": "Real Estate Consultants (Revalida)",
       "start": "August 21, 2025",
