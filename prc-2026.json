@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-09-30T17:53:12.110Z",
+  "updated": "2026-10-01T05:20:50.195Z",
   "data": [
     {
       "n": "NAME OF EXAMINATION",
@@ -876,6 +876,13 @@
       "d": "September 08, 2026",
       "e": "October 8 9, 2026",
       "r": "October 13, 2026"
+    },
+    {
+      "n": "Professional Electronics Engineer Oral Examination",
+      "start": "",
+      "d": "",
+      "e": "October 8, 9, 12, 2026",
+      "r": ""
     },
     {
       "n": "Chemical Technicians",
