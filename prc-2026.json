@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-10-11T05:15:50.258Z",
+  "updated": "2026-10-14T04:27:07.936Z",
   "data": [
     {
       "n": "NAME OF EXAMINATION",
@@ -1044,6 +1044,13 @@
       "d": "October 20, 2026",
       "e": "November 29 30, 2026",
       "r": "December 03, 2026"
+    },
+    {
+      "n": "Professional Electrical Engineers (Oral Examination)",
+      "start": "October 15, 2026",
+      "d": "November 15, 2026",
+      "e": "November 29, 6, 2026",
+      "r": ""
     },
     {
       "n": "Professional Mechanical Engineers (Technical Evaluation)",
