@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-10-14T04:27:07.936Z",
+  "updated": "2026-10-30T05:19:19.260Z",
   "data": [
     {
       "n": "NAME OF EXAMINATION",
@@ -727,7 +727,7 @@
       "n": "Nurses",
       "start": "May 15, 2026",
       "d": "July 15, 2026",
-      "e": "August 29 30, 2026",
+      "e": "August 29, 30, 11, 12, 20, 26, 22, 20, 26, 29, 30, 20, 26, 11, 12, 20, 26, 12, 20, 26, 22, 20, 26, 30, 20, 26, 12, 20, 26, 2026",
       "r": "September 18, 2026"
     },
     {
@@ -981,6 +981,13 @@
       "d": "October 13, 2026",
       "e": "November 12 13, 2026",
       "r": "November 17, 2026"
+    },
+    {
+      "n": "Professional Mechanical Engineers (Technical Evaluation)",
+      "start": "October 01, 2026",
+      "d": "October 31, 2026",
+      "e": "November 13, 22, 2026",
+      "r": ""
     },
     {
       "n": "Chemical Engineers (CBLE)",
