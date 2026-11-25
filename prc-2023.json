@@ -1,0 +1,867 @@
+{
+  "year": 2023,
+  "updated": "2026-11-25T08:00:02.553Z",
+  "data": [
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "REAL ESTATE CONSULTANTS (REVALIDA)",
+      "start": "November 2, 2022",
+      "d": "December 9, 2022",
+      "e": " 9, 13, 2023",
+      "r": "January 17, 2023"
+    },
+    {
+      "n": "ARCHITECTS",
+      "start": "November 2, 2022",
+      "d": "December 26, 2022",
+      "e": " 25, 27, 2023",
+      "r": "February 1, 2023"
+    },
+    {
+      "n": "SANITARY ENGINEERS",
+      "start": "November 2, 2022",
+      "d": "January 2, 2023",
+      "e": "Jan 30, 31, 1, 2023",
+      "r": "February 3, 2023"
+    },
+    {
+      "n": "RESPIRATORY THERAPISTS",
+      "start": "November 4, 2022",
+      "d": "January 20, 2023\nReso. No. 1602(A)",
+      "e": " 5 6, 2023",
+      "r": "February 8, 2023"
+    },
+    {
+      "n": "MASTER PLUMBERS",
+      "start": "November 18, 2022",
+      "d": "January 20, 2023",
+      "e": " 19 20, 2023",
+      "r": "February 22, 2023"
+    },
+    {
+      "n": "MECHANICAL ENGINEERS",
+      "start": "November 25, 2022",
+      "d": "January 27 , 2023",
+      "e": " 26 27, 2023",
+      "r": "March 2, 2023"
+    },
+    {
+      "n": "CERTIFIED PLANT MECHANICS",
+      "start": "November 25, 2022",
+      "d": "January 27 , 2023",
+      "e": " 26 27, 2023",
+      "r": "March 2, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "VETERINARIANS",
+      "start": "December 1, 2022",
+      "d": "February 1, 2023",
+      "e": " 1 3, 2023",
+      "r": "March 7, 2023"
+    },
+    {
+      "n": "PHYSICIANS",
+      "start": "December 5, 2022",
+      "d": "February 6, 2023",
+      "e": " 5, 6, 12, 13, 2023",
+      "r": "March 16, 2023"
+    },
+    {
+      "n": "MEDICAL TECHNOLOGISTS",
+      "start": "December 8, 2022",
+      "d": "February 9, 2023",
+      "e": " 8 9, 2023",
+      "r": "March 14, 2023"
+    },
+    {
+      "n": "PROFESSIONAL TEACHERS",
+      "start": "December 12, 2022",
+      "d": "February 6, 2023",
+      "e": "Rescheduled 26, 19, 2023",
+      "r": ""
+    },
+    {
+      "n": "CRIMINOLOGISTS",
+      "start": "December 16, 2022",
+      "d": "February 16, 2023",
+      "e": " 3 5, 2023",
+      "r": "May 4, 2023"
+    },
+    {
+      "n": "PHARMACISTS",
+      "start": "January 10, 2023",
+      "d": "March 13, 2023",
+      "e": " 10 11, 2023",
+      "r": "April 14, 2023"
+    },
+    {
+      "n": "MIDWIVES",
+      "start": "January 13, 2023",
+      "d": "March 14, 2023",
+      "e": " 13 14, 2023",
+      "r": "April 19, 2023"
+    },
+    {
+      "n": "REAL ESTATE BROKERS",
+      "start": "January 16, 2023",
+      "d": "March 16, 2023",
+      "e": " 16, 2023",
+      "r": "April 18, 2023"
+    },
+    {
+      "n": "ELECTRONICS ENGINEERS",
+      "start": "January 19, 2023",
+      "d": "March 20, 2023",
+      "e": " 19 20, 2023",
+      "r": "April 26, 2023"
+    },
+    {
+      "n": "ELECTRONICS TECHNICIANS",
+      "start": "January 19, 2023",
+      "d": "March 20, 2023",
+      "e": " 21, 2023",
+      "r": "April 26, 2023"
+    },
+    {
+      "n": "CERTIFIED PUBLIC ACCOUNTANTS (CPA) (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "ARCHITECTS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "CIVIL ENGINEERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "ELECTRONICS ENGINEERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "ELECTRONICS TECHNICIAN (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "ENVIRONMENTAL PLANNING (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "GEODETIC ENGINEERING (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "MASTER PLUMBERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "MECHANICAL ENGINEERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "CHEMICAL ENGINEERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "SOCIAL WORKERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "MIDWIVES (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "NURSE (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "PHYSICAL THERAPISTS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "PSYCHOMETRICIANS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "PROFESSIONAL TEACHERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "RADIOLOGIC TECHNOLOGISTS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "REGISTERED ELECTRICAL ENGINEERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "REGISTERED MASTER ELECTRICIANS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "RESPIRATORY THERAPISTS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "REAL ESTATE BROKERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22, 2023",
+      "r": ""
+    },
+    {
+      "n": "X-RAY TECHNOLOGISTS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 23, 2023",
+      "r": ""
+    },
+    {
+      "n": "SOCIAL WORKERS (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "VETERINARY MEDICINES (SPLE)",
+      "start": "",
+      "d": "",
+      "e": " 22 24, 2023",
+      "r": ""
+    },
+    {
+      "n": "CIVIL ENGINEERS",
+      "start": "January 23, 2023",
+      "d": "March 24, 2023",
+      "e": " 23 24, 2023",
+      "r": "April 28, 2023"
+    },
+    {
+      "n": "REGISTERED ELECTRICAL ENGINEERS",
+      "start": "January 25, 2023",
+      "d": "March 27, 2023",
+      "e": " 25 26, 2023",
+      "r": "May 3, 2023"
+    },
+    {
+      "n": "REGISTERED MASTER ELECTRICIANS",
+      "start": "January 25, 2023",
+      "d": "March 27, 2023",
+      "e": " 27, 2023",
+      "r": "May 3, 2023"
+    },
+    {
+      "n": "DENTISTS (WRITTEN)",
+      "start": "February 3, 2023",
+      "d": "April 5, 2023",
+      "e": " 3 5, 2023",
+      "r": "May 18, 2023"
+    },
+    {
+      "n": "DENTISTS (PRACTICAL)",
+      "start": "February 3, 2023",
+      "d": "April 5, 2023",
+      "e": " 7, 14, 2023",
+      "r": "May 18, 2023"
+    },
+    {
+      "n": "CHEMICAL ENGINEERS",
+      "start": "February 16, 2023",
+      "d": "April 18, 2023",
+      "e": " 16 18, 2023",
+      "r": "May 22, 2023"
+    },
+    {
+      "n": "CERTIFIED PUBLIC ACCOUNTANTS",
+      "start": "February 21, 2023",
+      "d": "April 24, 2023",
+      "e": " 21 23, 2023",
+      "r": "May 30, 2023"
+    },
+    {
+      "n": "DENTAL HYGIENISTS (WRITTEN)",
+      "start": "February 27, 2023",
+      "d": "April 26, 2023",
+      "e": " 25, 2023",
+      "r": "May 29, 2023"
+    },
+    {
+      "n": "DENTAL HYGIENISTS (PRACTICAL)",
+      "start": "February 27, 2023",
+      "d": "April 26, 2023",
+      "e": " 26, 2023",
+      "r": "May 29, 2023"
+    },
+    {
+      "n": "NURSES",
+      "start": "February 28, 2023",
+      "d": "April 28, 2023",
+      "e": " 28 29, 2023",
+      "r": "June 9, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "RADIOLOGIC TECHNOLOGISTS",
+      "start": "March 6. 2023",
+      "d": "May 8, 2023",
+      "e": " 6 7, 2023",
+      "r": "June 13, 2023"
+    },
+    {
+      "n": "X-RAY TECHNOLOGISTS",
+      "start": "March 6. 2023",
+      "d": "May 8, 2023",
+      "e": " 6 7, 2023",
+      "r": "June 13, 2023"
+    },
+    {
+      "n": "ARCHITECTS",
+      "start": "March 9, 2023",
+      "d": "May 11, 2023",
+      "e": " 9, 11, 2023",
+      "r": "June 16, 2023"
+    },
+    {
+      "n": "PSYCHOLOGISTS",
+      "start": "March 13, 2023",
+      "d": "May 15, 2023",
+      "e": " 13 14, 2023",
+      "r": "June 21, 2023"
+    },
+    {
+      "n": "PSYCHOMETRICIANS",
+      "start": "March 13, 2023",
+      "d": "May 15, 2023",
+      "e": " 13 14, 2023",
+      "r": "June 21, 2023"
+    },
+    {
+      "n": "PHYSICAL THERAPISTS",
+      "start": "March 15, 2023",
+      "d": "May 16, 2023",
+      "e": " 15 16, 2023",
+      "r": "June 20, 2023"
+    },
+    {
+      "n": "OCCUPATIONAL THERAPISTS",
+      "start": "March 15, 2023",
+      "d": "May 16, 2023",
+      "e": " 15 16, 2023",
+      "r": "June 20, 2023"
+    },
+    {
+      "n": "INTERIOR DESIGNERS",
+      "start": "April 4, 2023",
+      "d": "June 6, 2023",
+      "e": " 4 6, 2023",
+      "r": "July 25, 2023"
+    },
+    {
+      "n": "MASTER PLUMBERS",
+      "start": "April 17, 2023",
+      "d": "June 16, 2023",
+      "e": " 15 16, 2023",
+      "r": "July 19, 2023"
+    },
+    {
+      "n": "LANDSCAPE ARCHITECTS",
+      "start": "April 19, 2023",
+      "d": "June 20, 2023",
+      "e": " 19 20, 2023",
+      "r": "July 24, 2023"
+    },
+    {
+      "n": "ENVIRONMENTAL PLANNERS",
+      "start": "April 26, 2023",
+      "d": "June 27, 2023",
+      "e": " 26 27, 2023",
+      "r": "August 1, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "PSYCHOLOGISTS",
+      "start": "",
+      "d": "",
+      "e": " 1 2, 2023",
+      "r": ""
+    },
+    {
+      "n": "PSYCHOMETRICIANS",
+      "start": "",
+      "d": "",
+      "e": " 1 2, 2023",
+      "r": ""
+    },
+    {
+      "n": "MECHANICAL ENGINEERS",
+      "start": "May 5, 2023",
+      "d": "July 6, 2023",
+      "e": " 5 6, 2023",
+      "r": "August 10, 2023"
+    },
+    {
+      "n": "CERTIFIED PLANT MECHANICS",
+      "start": "May 5, 2023",
+      "d": "July 6, 2023",
+      "e": " 5 6, 2023",
+      "r": "August 10, 2023"
+    },
+    {
+      "n": "FOOD TECHNOLOGISTS",
+      "start": "May 10, 2023",
+      "d": "July 11, 2023",
+      "e": " 10 11, 2023",
+      "r": "August 16, 2023"
+    },
+    {
+      "n": "MEDICAL TECHNOLOGISTS",
+      "start": "May 12, 2023",
+      "d": "July 13, 2023",
+      "e": " 12 13, 2023",
+      "r": "August 25, 2023"
+    },
+    {
+      "n": "GUIDANCE COUNSELORS",
+      "start": "May 16, 2023",
+      "d": "July 17, 2023",
+      "e": " 16 17, 2023",
+      "r": "August 22, 2023"
+    },
+    {
+      "n": "MINING ENGINEERS",
+      "start": "May 22, 2023",
+      "d": "July 24, 2023",
+      "e": " 22 24, 2023",
+      "r": "August 29, 2023"
+    },
+    {
+      "n": "CRIMINOLOGISTS",
+      "start": "May 10, 2023",
+      "d": "July 10, 2023",
+      "e": " 25 27, 2023",
+      "r": "September 29, 2023"
+    },
+    {
+      "n": "SANITARY ENGINEERS",
+      "start": "May 29, 2023",
+      "d": "July 31, 2023",
+      "e": " 29 31, 2023",
+      "r": "September 4, 2023"
+    },
+    {
+      "n": "REGISTERED ELECTRICAL ENGINEERS",
+      "start": "May 22, 2023",
+      "d": "July 20, 2023",
+      "e": " 2 3, 2023",
+      "r": "September 8, 2023"
+    },
+    {
+      "n": "REGISTERED MASTER ELECTRICIANS",
+      "start": "May 22, 2023",
+      "d": "July 20, 2023",
+      "e": " 4, 2023",
+      "r": "September 8, 2023"
+    },
+    {
+      "n": "REAL ESTATE APPRAISERS",
+      "start": "June 6, 2023",
+      "d": "August 7, 2023",
+      "e": " 6, 2023",
+      "r": "September 11, 2023"
+    },
+    {
+      "n": "QUALIFYING ASSESSMENT FOR FOREIGN MEDICAL PROFESSIONALS",
+      "start": "June 7, 2023",
+      "d": "August 8, 2023",
+      "e": " 7 8, 2023",
+      "r": "September 12, 2023"
+    },
+    {
+      "n": "",
+      "start": "",
+      "d": "",
+      "e": ", 2023",
+      "r": ""
+    },
+    {
+      "n": "LIBRARIANS",
+      "start": "June 9, 2023",
+      "d": "August 11, 2023",
+      "e": " 11 12, 2023",
+      "r": "September 15, 2023"
+    },
+    {
+      "n": "AGRICULTURAL & BIOSYSTEMS ENGINEERS",
+      "start": "June 14, 2023",
+      "d": "August 15, 2023",
+      "e": " 14 15, 2023",
+      "r": "September 19, 2023"
+    },
+    {
+      "n": "SOCIAL WORKERS",
+      "start": "June 16, 2023",
+      "d": "August 18, 2023",
+      "e": " 18 20, 2023",
+      "r": "September 25, 2023"
+    },
+    {
+      "n": "PROFESSIONAL TEACHERS",
+      "start": "June 23, 2023",
+      "d": "August 24, 2023",
+      "e": " 24, 2023",
+      "r": "December 7, 2023"
+    },
+    {
+      "n": "VETERINARIANS",
+      "start": "June 26, 2023",
+      "d": "August 28, 2023",
+      "e": " 26 28, 2023",
+      "r": "October 2, 2023"
+    },
+    {
+      "n": "CERTIFIED PUBLIC ACCOUNTANTS",
+      "start": "June 30, 2023",
+      "d": "August 30, 2023",
+      "e": "Sep 30, 1, 2, 2023",
+      "r": "October 10, 2023"
+    },
+    {
+      "n": "METALLURGICAL ENGINEERS",
+      "start": "July 4, 2023",
+      "d": "September 22, 2023",
+      "e": " 4 6, 2023",
+      "r": "October 9, 2023"
+    },
+    {
+      "n": "NAVAL ARCHITECTS",
+      "start": "July 4, 2023",
+      "d": "September 4, 2023",
+      "e": " 4 6, 2023",
+      "r": "October 11, 2023"
+    },
+    {
+      "n": "NUTRITIONISTS-DIETITIANS",
+      "start": "July 7, 2023",
+      "d": "September 8, 2023",
+      "e": " 8 9, 2023",
+      "r": "October 11, 2023"
+    },
+    {
+      "n": "OPTOMETRISTS (WRITTEN)",
+      "start": "July 10, 2023",
+      "d": "September 12, 2023",
+      "e": " 10 12, 2023",
+      "r": "October 24, 2023"
+    },
+    {
+      "n": "OCULAR PHARMACOLOGISTS",
+      "start": "July 10, 2023",
+      "d": "September 11, 2023",
+      "e": " 10, 2023",
+      "r": "October 24, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "CHEMICAL ENGINEERS",
+      "start": "July 14, 2023",
+      "d": "September 15, 2023",
+      "e": " 14 16, 2023",
+      "r": "October 18, 2023"
+    },
+    {
+      "n": "OPTOMETRISTS (PRACTICAL)",
+      "start": "July 10, 2023",
+      "d": "September 12, 2023",
+      "e": " 15 18, 2023",
+      "r": "October 24, 2023"
+    },
+    {
+      "n": "PROFESSIONAL FORESTERS",
+      "start": "July 17, 2023",
+      "d": "September 18, 2023",
+      "e": " 17 18, 2023",
+      "r": "October 20, 2023"
+    },
+    {
+      "n": "PHYSICIANS",
+      "start": "July 20, 2023",
+      "d": "September 21, 2023",
+      "e": " 20, 21, 27, 28, 2023",
+      "r": "November 6, 2023"
+    },
+    {
+      "n": "ELECTRONICS ENGINEERS",
+      "start": "July 21, 2023",
+      "d": "September 25, 2023",
+      "e": " 22 23, 2023",
+      "r": "October 30, 2023"
+    },
+    {
+      "n": "ELECTRONICS TECHNICIANS",
+      "start": "July 21, 2023",
+      "d": "September 25, 2023",
+      "e": " 24, 2023",
+      "r": "October 30, 2023"
+    },
+    {
+      "n": "FISHERIES PROFESSIONALS",
+      "start": "July 25, 2023",
+      "d": "September 26, 2023",
+      "e": " 25 26, 2023",
+      "r": "November 3, 2023"
+    },
+    {
+      "n": "GEODETIC ENGINEERS",
+      "start": "July 25, 2023",
+      "d": "September 26, 2023",
+      "e": " 25 26, 2023",
+      "r": "October 31, 2023"
+    },
+    {
+      "n": "CHEMICAL TECHNICIANS",
+      "start": "July 28, 2023",
+      "d": "September 29, 2023",
+      "e": " 29, 2023",
+      "r": "November 7, 2023"
+    },
+    {
+      "n": "CHEMISTS",
+      "start": "July 31, 2023",
+      "d": "October 2, 2023",
+      "e": " 30 31, 2023",
+      "r": "November 7, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "PHARMACISTS",
+      "start": "August 2, 2023",
+      "d": "October 3, 2023",
+      "e": " 2 3, 2023",
+      "r": "November 8, 2023"
+    },
+    {
+      "n": "MIDWIVES",
+      "start": "August 7, 2023",
+      "d": "October 6, 2023",
+      "e": " 5 6, 2023",
+      "r": "November 9, 2023"
+    },
+    {
+      "n": "CUSTOMS BROKERS",
+      "start": "August 8, 2023",
+      "d": "October 9, 2023",
+      "e": " 8 9, 2023",
+      "r": "November 14, 2023"
+    },
+    {
+      "n": "NURSES",
+      "start": "August 11, 2023",
+      "d": "October 12, 2023",
+      "e": " 11 12, 2023",
+      "r": "December 1, 2023"
+    },
+    {
+      "n": "SPEECH LANGUAGE PATHOLOGY",
+      "start": "August 14, 2023",
+      "d": "October 16, 2023",
+      "e": " 13 14, 2023",
+      "r": "November 20, 2023"
+    },
+    {
+      "n": "GEOLOGISTS",
+      "start": "August 14, 2023",
+      "d": "October 16, 2023",
+      "e": " 13 15, 2023",
+      "r": "November 17, 2023"
+    },
+    {
+      "n": "CIVIL ENGINEERS",
+      "start": "August 17, 2023",
+      "d": "October 18, 2023",
+      "e": " 17 18, 2023",
+      "r": "November 24, 2023"
+    },
+    {
+      "n": "AGRICULTURISTS",
+      "start": "August 21, 2023",
+      "d": "October 23, 2023",
+      "e": " 20 22, 2023",
+      "r": "December 4, 2023"
+    },
+    {
+      "n": "DENTISTS (WRITTEN)",
+      "start": "August 28, 2023",
+      "d": "October 30, 2023",
+      "e": " 28 30, 2023",
+      "r": "December 18, 2023"
+    },
+    {
+      "n": "NAME OF EXAMINATION",
+      "start": "OPENING OF ONLINE APPLICATION",
+      "d": "DEADLINE IN FILING OF APPLICATIONS",
+      "e": "DATE/S OF EXAM, 2023",
+      "r": "TARGET DATE/S OF RELEASE OF EXAM RESULTS"
+    },
+    {
+      "n": "PHYSICAL THERAPISTS",
+      "start": "September 1, 2023",
+      "d": "November 3, 2023",
+      "e": " 1 2, 2023",
+      "r": "December 5, 2023"
+    },
+    {
+      "n": "OCCUPATIONAL THERAPISTS",
+      "start": "September 1, 2023",
+      "d": "November 3, 2023",
+      "e": " 1 2, 2023",
+      "r": "December 5, 2023"
+    },
+    {
+      "n": "DENTISTS (PRACTICAL)",
+      "start": "August 28, 2023",
+      "d": "October 30, 2023",
+      "e": " 3, 10, 2023",
+      "r": "December 18, 2023"
+    },
+    {
+      "n": "REAL ESTATE CONSULTANTS (WRITTEN)",
+      "start": "September 6, 2023",
+      "d": "November 6, 2023",
+      "e": " 6, 2023",
+      "r": "To be announced."
+    },
+    {
+      "n": "RADIOLOGIC TECHNOLOGISTS",
+      "start": "September 11, 2023",
+      "d": "November 13, 2023",
+      "e": " 11 12, 2023",
+      "r": "December 15, 2023"
+    },
+    {
+      "n": "X-RAY TECHNOLOGISTS",
+      "start": "September 11, 2023",
+      "d": "November 13, 2023",
+      "e": " 11 12, 2023",
+      "r": "December 15, 2023"
+    },
+    {
+      "n": "DENTAL TECHNOLOGISTS (WRITTEN)",
+      "start": "September 13, 2023",
+      "d": "November 13, 2023",
+      "e": " 13, 2023",
+      "r": "December 18, 2023"
+    },
+    {
+      "n": "DENTAL TECHNOLOGISTS (PRACTICAL)",
+      "start": "September 13, 2023",
+      "d": "November 13, 2023",
+      "e": " 14 15, 2023",
+      "r": "December 18, 2023"
+    },
+    {
+      "n": "AERONAUTICAL ENGINEERS",
+      "start": "September 15, 2023",
+      "d": "November 20, 2023",
+      "e": " 17 19, 2023",
+      "r": "December 21, 2023"
+    }
+  ]
+}
